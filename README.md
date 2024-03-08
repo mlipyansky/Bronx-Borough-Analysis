@@ -3,11 +3,13 @@ This project, developed throughout the honors recitation of Introduction to Comp
 The dataset used in this analysis, clean_heat_dataset.csv, was provided by the Mayor's Office of Climate and Sustainability as part of the NYC Clean Heat program, an initiative in New York City aimed at improving air quality and reducing greenhouse gas emissions by encouraging building owners to switch from using heavy heating oils, such as No. 4 and No. 6 oils, to cleaner and more efficient heating sources.
 
 Libraries Used:
+
 pandas for dataset manipulation and analysis.
 matplotlib.pyplot for data visualization.
 gdown for downloading the dataset from Google Drive.
 
 Analysis Highlights
+
 The analysis provided several key insights into the Bronx borough, notably:
 
 The average building age in the Bronx, which is notably high, and its implications for resident health.
@@ -16,6 +18,7 @@ Boiler installation dates and capacities, with a focus on environmental and heal
 The primary fuel types used in the borough, highlighting concerns over pollution and health risks.
 
 Visualizations
+
 Graphical representations were created to visualize:
 
 Average total gallons and MMBTU across boroughs.
@@ -23,4 +26,5 @@ The distribution of building types, highlighting the prevalence of older, potent
 Comparisons of boiler capacities and installation dates, indicating a need for updates or improvements.
 
 Conclusions and Findings
+
 The project's findings indicate significant areas of concern regarding the Bronx's heating systems and their impacts on pollution, health, and building efficiency. The analysis suggests a need for targeted interventions, such as upgrading older heating systems, increasing access to healthcare facilities, and transitioning to cleaner fuel types, to improve the borough's environmental health and residents' quality of life.
